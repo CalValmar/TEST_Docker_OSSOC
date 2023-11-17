@@ -1,6 +1,7 @@
 # Projet OSSOC
 
-Ce projet OSSOC est un exemple simple de l'utilisation de Docker et Docker Compose pour héberger une page web affichant "test Docker OSSOCS cyber 2".
+Ce test de docker est un entrainement personnel pour le projet OSSOC ! 
+Ceci est un exemple simple de l'utilisation de Docker et Docker Compose pour héberger une page web affichant "Test Docker OSSOCS Cyber 2".
 
 ## Structure du projet
 
@@ -40,8 +41,7 @@ Pour installer Docker Compose, suivez les instructions spécifiques à votre sys
    ```
 4. Accédez à la page web à l'adresse http://localhost:3001.
 
-
-### Arrêt des Conteneurs
+#### Arrêt des Conteneurs
 
 1. Pour arrêter les conteneurs, utilisez la commande suivante dans le même répertoire que votre docker-compose.yml :
    ```bash
