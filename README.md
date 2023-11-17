@@ -40,11 +40,11 @@ Pour installer Docker Compose, suivez les instructions spécifiques à votre sys
    ```
 4. Accédez à la page web à l'adresse http://localhost:3001.
 
+
 ### Arrêt des Conteneurs
 
 1. Pour arrêter les conteneurs, utilisez la commande suivante dans le même répertoire que votre docker-compose.yml :
    ```bash
    docker-compose down
    ```
-Cela feemera les conteneurs créés par Docker Compose.
-
+Cela fermera les conteneurs créés par Docker Compose.
